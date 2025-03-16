@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Ajith</h1>
 <h3 align="center">An Integrated MSc Computer Science student specializing in Artificial Intelligence and Data Science.</h3>
 
-
 <!--# 💫 About Me:
 🔭 I’m currently working on Crowdease<br><!--👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
 
